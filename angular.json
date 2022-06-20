@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "uptoangular11"
+    }
+  },
+  "defaultProject": "uptoangular11",
+  "cli": {
+    "analytics": false
+  }
 }
